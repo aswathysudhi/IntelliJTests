@@ -38,7 +38,7 @@ public class AuthController {
 
 	@GetMapping("/test")
 	public String sample(){
-		String sd= "hello";
+		String s= "helloo";
 		return "hello all";
 
 	}
